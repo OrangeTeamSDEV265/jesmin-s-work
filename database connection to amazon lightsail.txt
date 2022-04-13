@@ -1,0 +1,8 @@
+
+If you want to add/modify something to database.. please install mysql workbench
+then set your connection to database.
+
+Enter the host link: ls-a9c8a4ad25c05030b3b1c0c2fcef5e3a97cec3ac.cuggawogwi3c.us-east-2.rds.amazonaws.com 
+
+username:dbmasteruser
+password:admin1234
